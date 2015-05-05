@@ -1,0 +1,17 @@
+{
+    "name": "eyeglass-listfiles",
+    "version": "0.0.1",
+    "description": "Sass eyeglass module to list all files in a directory",
+    "license": "MIT",
+    "repository": "thomasmattheussen/eyeglass-listfiles",
+    "author": {
+        "name": "Thomas Mattheussen",
+        "email": "",
+        "url": "https://github.com/thomasmattheussen"
+    },
+    "keywords": ["eyeglass-module", "sass"],
+    "main": "eyeglass-exports.js",
+    "dependencies": {
+        "eyeglass": "*"
+    }
+}
